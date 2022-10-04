@@ -77,10 +77,3 @@ VinstechmyAutoscriptWebsocketLite
 <p align="center">
 <img src="https://user-images.githubusercontent.com/82468311/193444564-059a7f5f-4c1c-45d3-8ddb-aaf0205e70ee.png" width="400" title="Autoscript-Lite">
 </p>
-
-## ⏩ BUY ME A COFFEE ? ⏪
-<b>
-<br>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/82468311/189573622-9b165a67-4ae7-4354-bd8d-5fad54c266fa.JPG" width="300" title="Autoscript-Lite">
-<b>
